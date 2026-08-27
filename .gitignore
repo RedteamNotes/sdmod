@@ -1,0 +1,16 @@
+# Build output
+*.exe
+*.mdb
+*.pdb
+bin/
+obj/
+tests/bin/
+
+# Local tooling / build cache
+.mono-build/
+*.deb
+.tmp-tool-results/
+
+# OS
+.DS_Store
+Thumbs.db
